@@ -6,7 +6,7 @@
 
 - 🧓 : I am a `Front-end Developer` at Onpoint Viet Nam
 - :student: : I’m currently learning: `CS50` online course from Harvard.
-- :email: : You reach me **duyphamthien@outlook.com**
+- :email: : You can reach me **duyphamthien@outlook.com**
 - :heart: : My grandma Food 🍗 and Music🎵 are the reasons to live.
 - :nerd_face: : Always `learning new things`
 
@@ -52,7 +52,7 @@
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/phamthienduy-dev/phamthienduy-dev/4a8f4571bd29fa1a4d63a491ae3b199ba2ba98ed/assets/react.svg"
+    src="https://github.com/phamthienduy-dev/phamthienduy-dev/blob/main/assets/react.png?raw=true"
     alt="React"
     width="40"
     height="40"
@@ -71,6 +71,12 @@
   />
   <img
     src="https://raw.githubusercontent.com/phamthienduy-dev/phamthienduy-dev/4a8f4571bd29fa1a4d63a491ae3b199ba2ba98ed/assets/antd.svg"
+    alt="MUI"
+    width="40"
+    height="40"
+  />
+   <img
+    src="https://raw.githubusercontent.com/phamthienduy-dev/phamthienduy-dev/main/assets/nx.webp"
     alt="MUI"
     width="40"
     height="40"

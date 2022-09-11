@@ -2,8 +2,6 @@
 
 # I'm a self-taught developer from Viet Nam 🇻🇳🇻🇳🇻🇳.
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
 - 🧓 : I am a `Front-end Developer` at Onpoint Viet Nam
 - :student: : I’m currently learning: `CS50` online course from Harvard.
 - :email: : You can reach me **duyphamthien@outlook.com**

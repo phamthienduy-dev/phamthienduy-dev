@@ -90,7 +90,7 @@
 ### Statistical Data :
 
 
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=phamthienduy-dev)](https://github.com/phamthienduy-dev/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phamthienduy-dev&theme=dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=phamthienduy-dev&color=green)

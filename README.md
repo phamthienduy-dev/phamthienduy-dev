@@ -4,7 +4,7 @@
 
 - 🧓 : I am a `Front-end Developer` at Onpoint Viet Nam
 - :student: : I’m currently learning: `CS50` online course from Harvard.
-- :email: : You can reach me **duyphamthien@outlook.com**
+- :email: : You can reach me at **duyphamthien@outlook.com**
 - :heart: : My grandma Food 🍗 and Music🎵 are the reasons to live.
 - :nerd_face: : Always `learning new things`
 

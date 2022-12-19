@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Pham Thien Duy
 
-# I'm a self-taught developer from Viet Nam 🇻🇳🇻🇳🇻🇳.
+# I'm a self-taught developer from Viet Nam.
 
 - 🧓 : I am a `Front-end Developer` at Onpoint Viet Nam
 - :student: : I’m currently learning: `Golang`, `CS50` online course from Harvard.

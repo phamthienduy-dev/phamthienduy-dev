@@ -3,7 +3,7 @@
 # I'm a self-taught developer from Viet Nam.
 
 - 🧓 : I am a `Front-end Developer` at Onpoint Viet Nam
-- :student: : I’m currently learning: `Golang`, `CS50` online course from Harvard.
+- :student: : I’m currently learning: `Back-end Development`, `Computer Science` on CodeCademy.
 - :email: : You can reach me at **duyphamthien@outlook.com**
 - :heart: : My grandma Food 🍗 and Music🎵 are the reasons to live.
 - :nerd_face: : Always `learning new things`
